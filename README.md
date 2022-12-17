@@ -20,5 +20,6 @@ The best model after hyperparameter tuning has an AUC of 0.89 with an accuracy o
 * Matplotlib
 * Seaborn
 * Boto3
-* nltk
+* NLTK
 
+[GitHub Page](https://github.com/siming-deng/CIS4130_Big_Data_Technologies)
