@@ -8,3 +8,17 @@ My career goal is to associate my technical and soft skills with future activiti
 # Projects
 ## Star Rating Prediction on Amazon Customer Reviews Dataset using Natural Language Processing and Machine Learning Algorithms
 The goal of this project is to use Natural Language Processing and Machine Learning algorithms to predict Amazon’s product ratings from the customers' review comments and other related variables. Exploratory Data Analysis is performed before applying any models to understand the dataset better.  
+
+The best model after hyperparameter tuning has an AUC of 0.89 with an accuracy of 0.83, a precision of 0.83, a recall of 0.99, and an f1 score of 0.9.
+
+### Technology and Packages used include:
+* PySpark
+* Python
+* AWS EMR Clusters
+* Amazon S3
+* Pandas
+* Matplotlib
+* Seaborn
+* Boto3
+* nltk
+
