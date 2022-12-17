@@ -7,4 +7,4 @@ My career goal is to associate my technical and soft skills with future activiti
 
 # Projects
 ## Star Rating Prediction on Amazon Customer Reviews Dataset using Natural Language Processing and Machine Learning Algorithms
-The goal of this project is to use Natural Language Processing and Machine Learning algorithms to predict Amazon’s product ratings from the customers' review comments and other related variables. Exploratory Data Analysis will also perform before applying any models to understand the dataset better. 
+The goal of this project is to use Natural Language Processing and Machine Learning algorithms to predict Amazon’s product ratings from the customers' review comments and other related variables. Exploratory Data Analysis is performed before applying any models to understand the dataset better.  
